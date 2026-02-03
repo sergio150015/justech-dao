@@ -13,7 +13,22 @@ A **JusTech DAO** é uma organização autônoma descentralizada dedicada a fina
 
 Acreditamos que o acesso à tecnologia jurídica de ponta (LegalTech) não deve ser privilégio de grandes escritórios. Nossa comunidade une desenvolvedores, advogados e entusiastas para construir o "Sistema Operacional Jurídico Aberto".
 
-## 🚀 Como Funciona
+## � O Conceito na Prática: A "Vaquinha" Tecnológica
+Muitas vezes, a tecnologia é cara demais para um único advogado, mas barata para um grupo.
+
+**Cenário Real:**
+1.  **O Problema**: Um advogado precisa de um robô que leia o Diário Oficial e avise o cliente no WhatsApp.
+2.  **Solução Tradicional**: Ele orça com uma empresa de software. Custa **R$ 30.000,00**. Inviável para ele sozinho.
+3.  **Solução JusTech DAO**: 
+    - Ele propõe a ideia na DAO.
+    - 100 advogados concordam que também precisam disso.
+    - A DAO contrata o desenvolvedor.
+    - O custo para cada advogado cai para **R$ 300,00**.
+    - **Resultado**: Todos têm acesso a uma ferramenta de ponta por uma fração do preço, e o código pertence à comunidade, não a uma empresa fechada.
+
+Isso é a DAO: **Comprar poder de desenvolvimento em grupo.** A estrutura de *Multisig* e *Tokens* serve apenas para garantir que esse dinheiro seja gerido de forma segura e transparente.
+
+## �🚀 Como Funciona (A Mecânica)
 A DAO opera através de propostas comunitárias financiadas pelo nosso tesouro.
 1.  **Ideação**: Membros propõem novas ferramentas (ex: "Bot de triagem de processos", "Gerador de contratos via IA").
 2.  **Votação**: Detentores do token `$JUS` votam na aprovação do projeto via Snapshot.
